@@ -1,0 +1,9 @@
+# Agentic RAG — LangChain + OpenRouter + Streamlit
+streamlit>=1.50.0
+langchain>=1.0.0
+langchain-core>=1.0.0
+langgraph>=1.0.0
+langchain-openrouter>=0.2.0
+tavily-python>=0.7.0
+arxiv>=2.1.0
+requests>=2.31.0
